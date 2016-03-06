@@ -1,1 +1,662 @@
-
+<site>
+  <preference key="OpenPageAction.recent" value="C:\Users\uma\sitebuilder\sites\OM_GANESH_Madhwa_Recipes\index.html|C:\Users\uma\sitebuilder\sites\OM_GANESH_Madhwa_Recipes\EasyRecipes.html|C:\Users\uma\sitebuilder\sites\OM_GANESH_Madhwa_Recipes\aboutus.html|C:\Users\uma\sitebuilder\sites\OM_GANESH_Madhwa_Recipes\FestivalPlannerTools.html|C:\Users\uma\sitebuilder\sites\OM_GANESH_Madhwa_Recipes\contactus.html"/>
+  <preference key="Site.user.alternate.email" value="uma.adira@gmail.com"/>
+  <preference key="FilestoreFactory.webSite" value="us.1.p9"/>
+  <preference key="LinkChooser.FileChooser.path" value="C:\Users\uma\sitebuilder\sites\OM_GANESH_Madhwa_Recipes"/>
+  <preference key="Site.bizmail.serviceSC" value="us.1.p9"/>
+  <preference key="NewPageAction.templateCategory" value="All"/>
+  <preference key="OpenAction.page.path" value="C:\Users\uma\sitebuilder\sites\OM_GANESH_Madhwa_Recipes"/>
+  <preference key="NewPageAction.template" value="Food - Green"/>
+  <preference key="Site.bizmail.service" value="site.madhwarecipes.com/"/>
+  <preference key="Site.bizmail.username" value="uma_adira"/>
+  <asset id="%LocalDirectoryAsset:/sitebuilder">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/images">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/">
+  </asset>
+  <asset id="%PageAssetImpl:/aboutus.html">
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/vertical/foodCookingPot_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-0-inactive-59354.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/MUSTDORECIPES.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-48320.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-2-mouseOver-59525.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-3-active-59572.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-mouseOver-31537.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-mouseOver-31474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-1-inactive-59416.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-2-inactive-59494.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-31871.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-48270.png"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-0-mouseOver-59385.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-2-active-59510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-31560.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-31778.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-31711.png"/>
+    <refers-to id="%PageAssetImpl:/recipes.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-3-mouseOver-59603.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-31893.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-31815.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-1-active-59447.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-31451.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-31518.png"/>
+    <refers-to id="%PageAssetImpl:/services.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-31583.png"/>
+    <refers-to id="%PageAssetImpl:/aboutus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-4-active-59635.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-4-mouseOver-59666.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-3-inactive-59557.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-4-inactive-59619.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-31747.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/horizontal/foodBaskets_green.jpg"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/MUSTDORECIPES.png"/>
+    <refers-to id="%PageAssetImpl:/FestivalPlannerTools.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-1-mouseOver-59463.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-48370.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-mouseOver-31606.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-0-active-59369.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-31496.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-31411.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/aboutus_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/contactus.html">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-31451.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-31518.png"/>
+    <refers-to id="%PageAssetImpl:/services.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-31583.png"/>
+    <refers-to id="%PageAssetImpl:/aboutus.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/mouseOver.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/vertical/foodCookingPot_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-48320.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-31747.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-mouseOver-31537.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-mouseOver-31474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-31871.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-48270.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/horizontal/foodBaskets_green.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-31560.png"/>
+    <refers-to id="%PageAssetImpl:/FestivalPlannerTools.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-31778.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-31711.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-48370.png"/>
+    <refers-to id="%PageAssetImpl:/recipes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-31893.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-mouseOver-31606.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-31815.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-31496.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-31411.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/contactus_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/EasyRecipes.html">
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bullets/misc/classic_large.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/vertical/foodCookingPot_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-48320.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bullets/misc/foodBowl_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-inactive-26601.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-mouseOver-31537.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-mouseOver-31474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-48270.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-31871.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-mouseOver-63704.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-active-26628.png"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-31560.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-31778.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-mouseOver-26650.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-31711.png"/>
+    <refers-to id="%PageAssetImpl:/recipes.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-31893.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-31815.png"/>
+    <refers-to id="%PageAssetImpl:/MUSTRECIPESPERFESTIVAL.html"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-31451.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-31518.png"/>
+    <refers-to id="%PageAssetImpl:/services.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-31583.png"/>
+    <refers-to id="%PageAssetImpl:/aboutus.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/mouseOver.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bullets/misc/foodBowl_red.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-inactive-63663.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-31747.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/images/misc/flowerElementPurple.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-active-63682.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/EasyRecipes.nav"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/backgrounds/tile/lightblue_dotted.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/EasyRecipes.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/mouseOver.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/horizontal/foodBaskets_green.jpg"/>
+    <refers-to id="%PageAssetImpl:/FestivalPlannerTools.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-48370.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-mouseOver-31606.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-31496.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-31411.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/EasyRecipes_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/FestivalNotifier.html">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-0-mouseOver-54916.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/FestivalNotification.png"/>
+    <refers-to id="%PageAssetImpl:/services.html"/>
+    <refers-to id="%PageAssetImpl:/aboutus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-2-mouseOver-55044.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/vertical/foodCookingPot_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-1-active-54963.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-3-mouseOver-55100.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-1-mouseOver-54982.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/active.gif"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/FestivalNotification.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-0-inactive-54845.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-1-inactive-54939.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-2-inactive-55006.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/mouseOver.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/horizontal/foodBaskets_green.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-3-inactive-55063.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/inactive.gif"/>
+    <refers-to id="%PageAssetImpl:/FestivalNotifier.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-0-active-54866.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-2-active-55025.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-3-active-55083.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/FestivalNotifier_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/FestivalPlannerTools.html">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/FestivalNotification.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-0-mouseOver-54916.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/vertical/foodCookingPot_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-1-active-54963.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-48320.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-1-mouseOver-54982.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-mouseOver-31537.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-mouseOver-31474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-31871.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-48270.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/FestivalNotification.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-0-inactive-54845.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-2-inactive-55006.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-31560.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-31778.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-31711.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-3-inactive-55063.png"/>
+    <refers-to id="%PageAssetImpl:/recipes.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-2-active-55025.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-31893.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-31815.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-3-active-55083.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-31451.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-31518.png"/>
+    <refers-to id="%PageAssetImpl:/services.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-31583.png"/>
+    <refers-to id="%PageAssetImpl:/aboutus.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-2-mouseOver-55044.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-3-mouseOver-55100.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-31747.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-1-inactive-54939.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/mouseOver.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/horizontal/foodBaskets_green.jpg"/>
+    <refers-to id="%PageAssetImpl:/FestivalPlannerTools.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-48370.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-0-active-54866.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-mouseOver-31606.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-31496.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-31411.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/FestivalPlannerTools_html.png"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/files">
+  </asset>
+  <asset id="%LocalAsset:/files/Next_Festival.txt">
+  </asset>
+  <asset id="%LocalAsset:/files/Next_Festival2.txt">
+  </asset>
+  <asset id="%PageAssetImpl:/index.html">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-31451.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-31518.png"/>
+    <refers-to id="%PageAssetImpl:/services.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-31583.png"/>
+    <refers-to id="%PageAssetImpl:/aboutus.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/mouseOver.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/vertical/foodCookingPot_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-48320.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/bullets/foodBowl_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-31747.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-mouseOver-31537.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-mouseOver-31474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-31871.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-48270.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/horizontal/foodBaskets_green.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-31560.png"/>
+    <refers-to id="%PageAssetImpl:/FestivalPlannerTools.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-31778.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-31711.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/index.html-4.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-48370.png"/>
+    <refers-to id="%PageAssetImpl:/recipes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/index.html-3.png"/>
+    <refers-to id="%LocalAsset:/files/Next_Festival2.txt"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-31893.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-mouseOver-31606.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-31815.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-31496.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-31411.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/index_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/MUSTRECIPESPERFESTIVAL.html">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-5-mouseOver-68493.png"/>
+    <refers-to id="%PageAssetImpl:/services.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-4-mouseOver-68413.png"/>
+    <refers-to id="%PageAssetImpl:/aboutus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-5-inactive-68443.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-4-active-68393.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/vertical/foodCookingPot_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-3-active-68333.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-3-mouseOver-68343.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/MUSTRECIPESPERFESTIVAL.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-0-active-68133.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-5-active-68473.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-3-inactive-68303.png"/>
+    <refers-to id="%PageAssetImpl:/EasyRecipes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-4-inactive-68363.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-1-mouseOver-68203.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL.html-1.png"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-2-mouseOver-68273.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/horizontal/foodBaskets_green.jpg"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-2-active-68243.png"/>
+    <refers-to id="%PageAssetImpl:/recipes.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-2-inactive-68223.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-1-inactive-68163.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-1-active-68183.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-0-inactive-68113.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-0-mouseOver-68153.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/MUSTRECIPESPERFESTIVAL.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/MUSTRECIPESPERFESTIVAL_html.png"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/navigation_bars">
+  </asset>
+  <asset id="%PageAssetImpl:/recipes.html">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-31451.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-31518.png"/>
+    <refers-to id="%PageAssetImpl:/services.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-31583.png"/>
+    <refers-to id="%PageAssetImpl:/aboutus.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/mouseOver.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/vertical/foodCookingPot_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-48320.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/recipes.html-0.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-inactive-63663.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-31747.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-active-63682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-inactive-26601.png"/>
+    <refers-to id="%PageAssetImpl:/EasyRecipes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-mouseOver-31537.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-mouseOver-31474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-48270.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-31871.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-mouseOver-63704.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-active-26628.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/EasyRecipes.nav"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/EasyRecipes.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/horizontal/foodBaskets_green.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/active.gif"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-31560.png"/>
+    <refers-to id="%PageAssetImpl:/FestivalPlannerTools.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-31778.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-mouseOver-26650.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-31711.png"/>
+    <refers-to id="%PageAssetImpl:/recipes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-48370.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/recipes.html-2.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/recipes.html-1.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-31893.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-mouseOver-31606.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-31815.png"/>
+    <refers-to id="%PageAssetImpl:/MUSTRECIPESPERFESTIVAL.html"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-31496.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-31411.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/recipes_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/services.html">
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/vertical/foodCookingPot_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-0-inactive-59354.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/MUSTDORECIPES.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-48320.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-2-mouseOver-59525.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/bullets/foodBowl_green.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-3-active-59572.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-mouseOver-31537.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-mouseOver-31474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-1-inactive-59416.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-2-inactive-59494.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-31871.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-48270.png"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-0-mouseOver-59385.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-2-active-59510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-31560.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-31778.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-31711.png"/>
+    <refers-to id="%PageAssetImpl:/recipes.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-3-mouseOver-59603.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-31893.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-31815.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-1-active-59447.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-31451.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-31518.png"/>
+    <refers-to id="%PageAssetImpl:/services.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-31583.png"/>
+    <refers-to id="%PageAssetImpl:/aboutus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-4-active-59635.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-4-mouseOver-59666.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/green_outlined/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-3-inactive-59557.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-4-inactive-59619.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-31747.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/bars/regular/horizontal/foodBaskets_green.jpg"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/outlined_green/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/MUSTDORECIPES.png"/>
+    <refers-to id="%PageAssetImpl:/FestivalPlannerTools.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-1-mouseOver-59463.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-48370.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-mouseOver-31606.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-0-active-59369.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-31496.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-31411.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/services_html.png"/>
+  </asset>
+  <asset id="%LocalAsset:/sitebuilder/catalog.xml">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-active-63682.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-inactive-63663.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-mouseOver-63704.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-active-26628.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-inactive-26601.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-mouseOver-26650.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-0-active-54866.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-0-inactive-54845.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-0-mouseOver-54916.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-1-active-54963.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-1-inactive-54939.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-1-mouseOver-54982.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-2-active-55025.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-2-inactive-55006.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-2-mouseOver-55044.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-3-active-55083.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-3-inactive-55063.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/FestivalNotification-3-mouseOver-55100.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/index.html-3.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/index.html-4.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-0-active-59369.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-0-inactive-59354.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-0-mouseOver-59385.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-1-active-59447.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-1-inactive-59416.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-1-mouseOver-59463.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-2-active-59510.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-2-inactive-59494.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-2-mouseOver-59525.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-3-active-59572.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-3-inactive-59557.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-3-mouseOver-59603.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-4-active-59635.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-4-inactive-59619.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTDORECIPES-4-mouseOver-59666.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-0-active-68133.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-0-inactive-68113.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-0-mouseOver-68153.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-1-active-68183.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-1-inactive-68163.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-1-mouseOver-68203.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-2-active-68243.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-2-inactive-68223.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-2-mouseOver-68273.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-3-active-68333.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-3-inactive-68303.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-3-mouseOver-68343.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-4-active-68393.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-4-inactive-68363.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-4-mouseOver-68413.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-5-active-68473.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-5-inactive-68443.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL-5-mouseOver-68493.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MUSTRECIPESPERFESTIVAL.html-1.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-31451.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-31411.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-0-mouseOver-31474.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-31518.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-31496.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-1-mouseOver-31537.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-31583.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-31560.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-2-mouseOver-31606.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-31747.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-31711.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-31778.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-31871.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-31815.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-31893.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-48320.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-48270.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-48370.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/recipes.html-0.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/recipes.html-1.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/recipes.html-2.png">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/images/thumbnails">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/preview">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/save">
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/EasyRecipes.nav">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-mouseOver-63704.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-active-26628.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/MUSTRECIPESPERFESTIVAL.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-inactive-63663.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-inactive-26601.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/clipart/buttons/themes/outlined_green/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-0-active-63682.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/FestivalPlannerTools.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/EasyRecipes-1-mouseOver-26650.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/green_outlined/active.gif"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/EasyRecipes.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/EasyRecipes.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/EasyRecipes.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/EasyRecipes.png"/>
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/FestivalNotification.nav">
+    <refers-to id="%NavbarAsset:/navigation_bars/FestivalNotification.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/FestivalNotification.png"/>
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/FestivalPlannerTools.nav">
+    <refers-to id="%NavbarAsset:/navigation_bars/FestivalPlannerTools.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/FestivalPlannerTools.png"/>
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/MUSTDORECIPES.nav">
+    <refers-to id="%NavbarAsset:/navigation_bars/MUSTDORECIPES.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/MUSTDORECIPES.png"/>
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/MUSTRECIPESPERFESTIVAL.nav">
+    <refers-to id="%NavbarAsset:/navigation_bars/MUSTRECIPESPERFESTIVAL.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/MUSTRECIPESPERFESTIVAL.png"/>
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/navbar.nav">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/green_outlined/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-31451.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-31518.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-31583.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-48320.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-31747.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-mouseOver-31537.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-mouseOver-31474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-31871.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-48270.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/recipes.html"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/contactus.html"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/aboutus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-31560.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-31778.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-31711.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-48370.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-31893.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-mouseOver-31606.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-31815.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/services.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-31496.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/FestivalPlannerTools.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-31411.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/green_outlined/active.gif"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/PlannerTools.nav">
+    <refers-to id="%NavbarAsset:/navigation_bars/PlannerTools.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/PlannerTools.png"/>
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/RecipesNavBar.nav">
+    <refers-to id="%NavbarAsset:/navigation_bars/RecipesNavBar.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/RecipesNavBar.png"/>
+  </asset>
+</site>
