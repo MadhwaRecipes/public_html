@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <style>
+ul#menu {
+    right:70px;
+    position:absolute;
+}
+ul#menu li {
+    display: inline;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+}
+
+ul#menu li a, .dropbtn  {
+    background-color:rgb(100,133,178);
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-align: center
+    border-radius: 4px 4px 0 0;
+    display: inline-block;
+}
+
+ul#menu li a:hover, .dropdown:hover .dropbtn {
+background-color: turquoise;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width: 120px;
+    box-shadow: 0px 4px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: blue;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    background-color: #f9f9f9;
+    width: 160px;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.container {
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+img { 
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+}
+h1#header1 {
+	background-color:rgb(100,133,178); 
+        color: white;
+	top:100px;
+        text-align:center;
+        text: Tools, Madhwa Traditions and Food;
+        font-size: 32px;
+        font:courier;      
+}
+</h1>
+
+
+</style>
+    <title>Stylesheet.css</title>
+  </head>
+  <body topmargin="0" leftmargin="0" link="#0000FF"
+    background="clipart/backgrounds/tile/stripesWhiteGreenYellow.gif"
+    bgcolor="#663366" text="#000000" alink="#EE0000" vlink="#800080">
+    <h1 id="header1"><i><span position:absolute="" ;text-align:center="">
+          Tools, Madhwa Traditions and Food</span></i> </h1>
+    <ul id="menu">
+      <li><a href="index.html">Home</a></li>
+      <li class="dropdown"><a href="FestivalPlannerTools.html"
+          class="dropbtn">Planner Tools</a>
+        <div class="dropdown-content"> <a href="FestivalNotifier.html">
+            Festival Notifier</a><br>
+          <a href="BasicFormalities.html">Formalities</a><br>
+          <a href="PujaItems.html">Puja Items</a> </div>
+      </li>
+      <li><a href="recipes.html">Recipes</a></li>
+      <li><a href="Tips.html">Tips</a></li>
+    </ul>
+    <br>
+    <i> </i>
+  </body>
+</html>
